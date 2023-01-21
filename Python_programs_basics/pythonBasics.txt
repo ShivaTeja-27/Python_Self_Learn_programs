@@ -1,0 +1,19 @@
+# 1- palindrome program ----- "madam"  = madam , 121 = 121
+
+# 2- Factiorial of number -----4! = 4*3*2*1
+
+# 3- Fibonacci Series program ----- 0 1 1 2 3 5 8 13 18 ......
+
+# 4- Armstrong number ---- 153 == 1**3 + 5**3 + 3**3
+
+# 5- Calculator program ---- + - / % compound intrest intrest rate *
+
+# 6- patterns program --- perimid , half perimed **********
+
+# 7- Leap year program ----  every 4 years occurs 
+
+# 8- Prime numbers ---- a number divisible or multiplyed by 1 only are prime numbers  2, 3 , 5, 7, 11, 13, 17, 23, 29
+
+# 9- Area program --- circle, cube, cylinder, sphere, using import math
+
+# 10- Reverse a list items ---  using [::-1]
